@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/effect-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/effect-hook/static/js/main.51ae91d3.js",
+    "index.html": "/effect-hook/index.html",
+    "main.e6c13ad2.css.map": "/effect-hook/static/css/main.e6c13ad2.css.map",
+    "main.51ae91d3.js.map": "/effect-hook/static/js/main.51ae91d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.51ae91d3.js"
+  ]
+}
